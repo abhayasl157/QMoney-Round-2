@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QMoneyCodeChallenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bfe6646388edd1600f192cbc47a4a5de5c51663")]
 [assembly: System.Reflection.AssemblyProductAttribute("QMoneyCodeChallenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QMoneyCodeChallenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

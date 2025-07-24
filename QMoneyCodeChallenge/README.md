@@ -14,6 +14,13 @@ Before starting to explore Playwright, we need to make sure the following:
 
 Note: If you plan to create project anew,select the NUnit project (as this). To understand how to create an NUnit project, please check the link https://playwright.dev/dotnet/docs/intro
 
+Also, make sure the following is set in appsettings.json properties before execution:
+
+ a. Build Action - Content/None
+ b. Copy to Output Directory - Copy if newer 
+
+This will improve the build performance as VS avoids unnecessary copying file to output directory.
+
 ## Running tests 
 
 We can run the tests in two ways:
