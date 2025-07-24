@@ -17,6 +17,7 @@ Note: If you plan to create project anew,select the NUnit project. To understand
 Also, make sure the following is set in appsettings.json properties before execution:
 
  a. Build Action - Content/None
+ 
  b. Copy to Output Directory - Copy if newer 
 
 This will improve the build performance as VS avoids unnecessary copying file to output directory.
