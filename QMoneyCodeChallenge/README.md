@@ -12,7 +12,7 @@ Before starting to explore Playwright, we need to make sure the following:
 
       ./bin/Debug/net8.0/playwright.ps1 install
 
-Note: If you plan to create project anew,select the NUnit project (as this). To understand how to create an NUnit project, please check the link https://playwright.dev/dotnet/docs/intro
+Note: If you plan to create project anew,select the NUnit project. To understand how to create an NUnit project, please check the link https://playwright.dev/dotnet/docs/intro
 
 ## Running tests 
 
