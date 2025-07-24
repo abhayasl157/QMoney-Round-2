@@ -1,4 +1,4 @@
-# playwright
+# Playwright
 
 Playwright test repository for QMoney project. 
 Playwright for .NET is a powerful framework designed for end-to-end testing, supporting all modern rendering engines including Chromium.
@@ -10,7 +10,7 @@ Before starting to explore Playwright, we need to make sure the following:
 2. Create a project folder in your local machine and copy the project from the repo to local.
 3. Run the command below to install playwright for the first time, pointing to your local project folder:
 
-./bin/Debug/net8.0/playwright.ps1 install
+      ./bin/Debug/net8.0/playwright.ps1 install
 
 Note: If you plan to create project anew,select the NUnit project (as this). To understand how to create an NUnit project, please check the link https://playwright.dev/dotnet/docs/intro
 
